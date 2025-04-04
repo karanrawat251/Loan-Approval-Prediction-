@@ -1,7 +1,10 @@
 # Loan-Approval-Prediction-
 
 Here I put my new project in which I use finance dataset and predict loan approval.
+
+
 In this project, I did brief analysis of data :
+
 Handling Missing values and duplicates
 Handling outliers and checking skewness and krutosis
 Feature Engineering and EDA
